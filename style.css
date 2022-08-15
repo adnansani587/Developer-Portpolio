@@ -38,3 +38,7 @@ section {
     color: white;
     border-radius: 5px;
 }
+
+.corner {
+    background-image: url(images/corner.png);
+}
