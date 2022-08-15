@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -24,6 +25,7 @@ section {
 .half-width {
     width: 50%;
     padding-left: 2%;
+    padding-top: 15%;
 }
 
 .half-width img {
@@ -41,4 +43,38 @@ section {
 
 .corner {
     background-image: url(images/corner.png);
+    background-repeat: no-repeat;
+
+}
+
+.secend-section {
+    display: flex;
+    margin-top: 15%;
+    padding-right: 8px;
+}
+
+.secend-half-width {
+    width: 50%;
+}
+
+.secend-half-width img {
+    width: 80%;
+}
+
+.Dream {
+    color: chocolate;
+}
+
+.Man {
+    color: chocolate;
+}
+
+.secend-button {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 8px;
+    background-image: linear-gradient(aqua, red);
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
 }
