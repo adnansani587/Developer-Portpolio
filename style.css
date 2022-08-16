@@ -1,0 +1,79 @@
+body {
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+.frist-section {
+    display: flex;
+}
+
+.frist-section-weidth {
+    width: 50%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.h2-frist-section {
+    color: orange;
+}
+
+.inside-div {
+    padding-left: 5%;
+    background-image: url(images/corner.png);
+    background-repeat: no-repeat;
+    padding-top: 30%;
+}
+
+.Hire-Me {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    font-size: 30px;
+    border-radius: 10%;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 700;
+}
+
+.frist-section-image {
+    width: 60%;
+    padding-left: 35%;
+    padding-top: 30%;
+}
+
+.secend-section {
+    display: flex;
+    background-image: url(images/half-round.png);
+}
+
+.secend-section-image {
+    width: 35%;
+    padding-left: 20%;
+    padding-top: 35%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.Dream {
+    color: orange;
+}
+
+.Young-Man {
+    color: orange;
+}
+
+.secend-inside-div {
+    padding-right: 20%;
+    padding-top: 60%;
+    padding-bottom: 35%;
+}
